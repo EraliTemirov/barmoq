@@ -90,7 +90,7 @@
     animation-duration: 1.5s;
     animation-timing-function: ease-in;
     animation-iteration-count: infinite;
-    animation-delay: 0.1s;
+    animation-delay: 0.2s;
 
   &::after {
     content: "";
@@ -103,7 +103,7 @@
     border-radius: 5px;
     top: 0;
     animation: chiziq 1.5s ease-in infinite;
-      animation-delay: 0.1s;
+      animation-delay: 0.2s;
     @keyframes chiziq {
       to {
         margin-top: 5px;
@@ -122,7 +122,7 @@
     border-radius: 5px;
     top: 0;
     animation: chiziqq 1.5s ease-in infinite;
-      animation-delay: 0.1s;
+      animation-delay: 0.2s;
     @keyframes chiziqq {
       to {
         margin-top: 10px;
@@ -145,7 +145,7 @@
   position: absolute;
   margin-top: 125px;
   animation: tir 1.5s ease-in infinite;
-    animation-delay: 0.1s;
+    animation-delay: 0.2s;
 }
 @keyframes tir {
   to {
@@ -162,7 +162,7 @@
   z-index: 99;
   border-radius: 10px;
   animation: barmoq3 1.5s ease-in infinite;
-    animation-delay: 0.2s;
+    animation-delay: 0.4s;
 
   &::after {
     content: "";
@@ -175,7 +175,7 @@
     border-radius: 5px;
     top: 0;
     animation: chiziq 1.5s ease-in infinite;
-     animation-delay: 0.2s;
+     animation-delay: 0.4s;
     @keyframes chiziq {
       to {
         margin-top: 5px;
@@ -194,7 +194,7 @@
     border-radius: 5px;
     top: 0;
     animation: chiziqq 1.5s ease-in infinite;
-     animation-delay: 0.2s;
+     animation-delay: 0.4s;
     @keyframes chiziqq {
       to {
         margin-top: 130px;
@@ -217,7 +217,7 @@
   position: absolute;
   margin-top: 160px;
   animation: tirn 1.5s ease-in infinite;
-   animation-delay: 0.2s;
+   animation-delay: 0.4s;
 }
 @keyframes tirn {
   to {
@@ -233,7 +233,7 @@
   z-index: 99;
   border-radius: 10px;
   animation: barmoq1 1.5s ease-in infinite;
-   animation-delay: 0.3s;
+   animation-delay: 0.6s;
 
   &::after {
     content: "";
@@ -246,7 +246,7 @@
     border-radius: 5px;
     top: 0;
     animation: chiziq 1.5s ease-in infinite;
-     animation-delay: 0.3s;
+     animation-delay: 0.6s;
   }
   &::before {
     content: "";
@@ -259,7 +259,7 @@
     border-radius: 5px;
     top: 0;
     animation: chiziqq 1.5s ease-in infinite;
-     animation-delay: 0.3s;
+     animation-delay: 0.6s;
     @keyframes chiziqq {
       to {
         margin-top: 10px;
@@ -282,7 +282,7 @@
   position: absolute;
   margin-top: 125px;
   animation: tir 1.5s ease-in infinite;
-   animation-delay: 0.3s;
+   animation-delay: 0.6s;
 }
 @keyframes tir {
   to {
@@ -299,7 +299,7 @@
   z-index: 99;
   border-radius: 0 35px 25px 0;
   animation: barmoq5 1.5s ease-in infinite;
-   animation-delay: 0.4s;
+   animation-delay: 0.8s;
   &::after {
     content: "";
     margin-top: -15px;
